@@ -7,6 +7,6 @@ while n>0:
     t*=r
     n=n//10
 if s==t:
-    print('Spy Number')
+    print("Spy Number")
 else:
-    print('Not Spy Number')
+    print("Not Spy Number")
